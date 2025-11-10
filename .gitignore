@@ -1,0 +1,20 @@
+# Virtual environments
+venv/
+
+# Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+
+# Output files
+converted_rules/
+output_rules/
+*.kql
+
+# Claude Code
+.claude/
